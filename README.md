@@ -1,6 +1,7 @@
 # Encryption of biometric fingerprint templates
 
-Date: April - July 2021
+April - July 2021
+Padmapriya Mohan, Rishab Raj, Priti Das, Sonali
 
 Through this project, we attempt to design and implement an encryption scheme that takes as plaintext a biometric fingerprint template and encrypts it, in order to implement a secure authentication and identification system. 
 
