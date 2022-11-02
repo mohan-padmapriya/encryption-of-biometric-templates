@@ -31,6 +31,6 @@ This project makes use of -
 
 
 ## Algorithms
-![Enroll and encrypt](algoEnrollEncrypt.png)
+![Enroll and encrypt](algoExtraxtEncrypt.png)
 ![Decrypt and Match](algoDecryptMatch.png)
 
